@@ -19,7 +19,7 @@ A simple RESTful API for managing a list of books built with Laravel 10 and SQLi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/laravel_books_api.git
+git clone https://github.com/Dagemgissila/laravel-book-api.git
 cd laravel_books_api
 ```
 
