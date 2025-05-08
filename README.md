@@ -53,7 +53,7 @@ php artisan migrate:fresh --seed
 php artisan serve
 ```
 
-### 6. Start the Development Server
+### 6. Testing
 
 ```bash
 php artisan test
@@ -79,14 +79,13 @@ JSON response structure
 🧪 Testing
 Run feature and unit tests using PHPUnit:
 
-bash
-Copy
-Edit
+```bash
 php artisan test
+
+```
+
 Tests include:
 
 Successful creation, update, listing, and deletion of books
 
 Validation checks for required fields and valid data
-
-JSON response structure
